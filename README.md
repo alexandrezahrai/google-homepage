@@ -4,5 +4,6 @@ The difficulty was listed as "easy" but this took me about 10 hours starting ove
 
 I am quite happy with the result, and would love to hear any constructive feedback you might have or tips for improvement. 
 
+Thank you for checking this out :)
 
-Thank you for checkiing this out :)
+Live Preview: https://alexandrezahrai.github.io/google-homepage/
